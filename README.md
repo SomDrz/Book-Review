@@ -34,8 +34,8 @@ Create Book Review system using Node.js , MongoDb , Express.js , all the apis ar
 
 # Clone the repository
 
-git clone https://github.com/your-username/book-review-api.git
 
+git clone https://github.com/SomDrz/Book-Review.git
 
 cd server
 
